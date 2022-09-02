@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="animated"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 608.9 468"
+   style="enable-background:new 0 0 608.9 468;"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="controlpanel.svg"><metadata
+   id="metadata4307"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs4305" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview4303"
+   showgrid="false"
+   inkscape:zoom="1.7991453"
+   inkscape:cx="304.45001"
+   inkscape:cy="234"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style4137">
+	.panel0{fill:#FFFFFF;stroke:#D8D8D8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel1{fill:#FFFFFF;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel2{fill:#FFFFFF;stroke:#ee5586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel3{fill:none;stroke:#D8D8D8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel4{fill:none;stroke:#ee5586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel5{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel6{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.panel7{fill:#808080;}
+</style>
+<path
+   class="panel0"
+   d="M64.4,1.7h518c9.1,0,16.4,7.4,16.4,16.4v378.9c0,9.1-7.4,16.4-16.4,16.4h-518c-9.1,0-16.4-7.4-16.4-16.4V18.1  C48,9,55.4,1.7,64.4,1.7z"
+   id="path4139" />
+<path
+   class="panel1"
+   d="M18.1,54.6h518c9.1,0,16.4,7.4,16.4,16.4v378.9c0,9.1-7.4,16.4-16.4,16.4h-518c-9.1,0-16.4-7.4-16.4-16.4V71  C1.6,62,9,54.6,18.1,54.6z"
+   id="path4141" />
+<path
+   id="svg-concept"
+   class="panel2"
+   d="M61.8,80.4c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4C59.9,76,61.8,78,61.8,80.4z" />
+<path
+   class="panel3"
+   d="M82.7,80.4c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4C80.7,76,82.7,78,82.7,80.4z"
+   id="path4144" />
+<path
+   class="panel3"
+   d="M103.5,80.4c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4C101.6,76,103.5,78,103.5,80.4z"
+   id="path4146" />
+<path
+   class="panel3"
+   d="M2.9,100.9h548.2"
+   id="path4148" />
+<g
+   id="g4150">
+	<rect
+   x="46.9"
+   y="126.7"
+   id="rect4152"
+   class="panel4"
+   width="464.4"
+   height="47.7" />
+	<rect
+   x="46.9"
+   y="192.4"
+   class="panel3"
+   width="82.9"
+   height="12.9"
+   id="rect4154" />
+	<rect
+   x="149"
+   y="192.4"
+   class="panel3"
+   width="361.4"
+   height="13"
+   id="rect4156" />
+	<rect
+   x="149.4"
+   y="234.4"
+   id="rect4158"
+   class="panel4"
+   width="33.3"
+   height="29" />
+	<rect
+   x="269.7"
+   y="234.4"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4160" />
+	<g
+   id="g4162">
+	<rect
+   id="svg-ico"
+   x="389.8"
+   y="234.4"
+   width="33.3"
+   height="29" />
+		<animate
+   attributeName="opacity"
+   values="0;1;0"
+   dur="1s"
+   repeatCount="indefinite" />
+
+        <animate
+   attributeName="fill"
+   xlink:href="#svg-ico"
+   calMode="linear"
+   dur="1s"
+   begin="0s"
+   from="#ffffff"
+   to="#ee5486"
+   fill="freeze" />
+    </g>
+	<rect
+   x="149.4"
+   y="273.5"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4165" />
+	<rect
+   x="269.7"
+   y="273.5"
+   id="rect4167"
+   class="panel4"
+   width="33.3"
+   height="29" />
+	<rect
+   x="389.7"
+   y="273.5"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4169" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="226.3"
+   x2="129.7"
+   y2="226.3"
+   id="line4171" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="236.8"
+   x2="129.7"
+   y2="236.8"
+   id="line4173" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="244.7"
+   x2="252.2"
+   y2="244.7"
+   id="line4175" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="255.1"
+   x2="243.4"
+   y2="255.1"
+   id="line4177" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="244.7"
+   x2="370.9"
+   y2="244.7"
+   id="line4179" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="255.1"
+   x2="362.1"
+   y2="255.1"
+   id="line4181" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="244.7"
+   x2="489.6"
+   y2="244.7"
+   id="line4183" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="255.1"
+   x2="480.8"
+   y2="255.1"
+   id="line4185" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="281.9"
+   x2="252.2"
+   y2="281.9"
+   id="line4187" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="292.4"
+   x2="243.4"
+   y2="292.4"
+   id="line4189" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="281.9"
+   x2="370.9"
+   y2="281.9"
+   id="line4191" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="292.4"
+   x2="362.1"
+   y2="292.4"
+   id="line4193" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="281.9"
+   x2="489.6"
+   y2="281.9"
+   id="line4195" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="292.4"
+   x2="480.8"
+   y2="292.4"
+   id="line4197" />
+	<rect
+   x="149"
+   y="327.6"
+   class="panel3"
+   width="361.4"
+   height="13"
+   id="rect4199" />
+	<rect
+   x="149.4"
+   y="369.6"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4201" />
+
+	<g
+   id="g4203">
+	<rect
+   id="rect4205"
+   x="269.7"
+   y="369.6"
+   width="33.3"
+   height="29" />
+		<animate
+   attributeName="opacity"
+   values="0;1;0"
+   dur="1s"
+   repeatCount="indefinite" />
+
+        <animate
+   attributeName="fill"
+   xlink:href="#svg-ico"
+   calMode="linear"
+   dur="1s"
+   begin="0.5s"
+   from="#ffffff"
+   to="#ee5486"
+   fill="freeze" />
+    </g>
+
+	<rect
+   x="389.8"
+   y="369.6"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4207" />
+	<rect
+   x="149.4"
+   y="408.7"
+   id="rect4209"
+   class="panel4"
+   width="33.3"
+   height="29" />
+	<rect
+   x="269.7"
+   y="408.7"
+   class="panel3"
+   width="33.3"
+   height="29"
+   id="rect4211" />
+	<rect
+   x="389.7"
+   y="408.7"
+   id="rect4213"
+   class="panel4"
+   width="33.3"
+   height="29" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="379.9"
+   x2="252.2"
+   y2="379.9"
+   id="line4215" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="390.4"
+   x2="243.4"
+   y2="390.4"
+   id="line4217" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="379.9"
+   x2="370.9"
+   y2="379.9"
+   id="line4219" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="390.4"
+   x2="362.1"
+   y2="390.4"
+   id="line4221" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="379.9"
+   x2="489.6"
+   y2="379.9"
+   id="line4223" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="390.4"
+   x2="480.8"
+   y2="390.4"
+   id="line4225" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="417.1"
+   x2="252.2"
+   y2="417.1"
+   id="line4227" />
+	<line
+   class="panel5"
+   x1="199.8"
+   y1="427.6"
+   x2="243.4"
+   y2="427.6"
+   id="line4229" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="417.1"
+   x2="370.9"
+   y2="417.1"
+   id="line4231" />
+	<line
+   class="panel5"
+   x1="318.5"
+   y1="427.6"
+   x2="362.1"
+   y2="427.6"
+   id="line4233" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="417.1"
+   x2="489.6"
+   y2="417.1"
+   id="line4235" />
+	<line
+   class="panel5"
+   x1="437.2"
+   y1="427.6"
+   x2="480.8"
+   y2="427.6"
+   id="line4237" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="247.3"
+   x2="129.7"
+   y2="247.3"
+   id="line4239" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="257.8"
+   x2="129.7"
+   y2="257.8"
+   id="line4241" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="268.3"
+   x2="129.7"
+   y2="268.3"
+   id="line4243" />
+	<line
+   class="panel5"
+   x1="46.9"
+   y1="278.8"
+   x2="129.7"
+   y2="278.8"
+   id="line4245" />
+	<line
+   class="panel5"
+   x1="46.9"
+   y1="289.3"
+   x2="129.7"
+   y2="289.3"
+   id="line4247" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="312.6"
+   x2="129.7"
+   y2="312.6"
+   id="line4249" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="323.1"
+   x2="129.7"
+   y2="323.1"
+   id="line4251" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="333.6"
+   x2="129.7"
+   y2="333.6"
+   id="line4253" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="344.1"
+   x2="129.7"
+   y2="344.1"
+   id="line4255" />
+	<line
+   class="panel5"
+   x1="46.9"
+   y1="354.6"
+   x2="129.7"
+   y2="354.6"
+   id="line4257" />
+	<line
+   class="panel5"
+   x1="46.9"
+   y1="365.1"
+   x2="129.7"
+   y2="365.1"
+   id="line4259" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="375.6"
+   x2="129.7"
+   y2="375.6"
+   id="line4261" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="398.6"
+   x2="83.2"
+   y2="398.6"
+   id="line4263" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="409.1"
+   x2="83.2"
+   y2="409.1"
+   id="line4265" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="419.6"
+   x2="83.2"
+   y2="419.6"
+   id="line4267" />
+	<line
+   class="panel3"
+   x1="46.9"
+   y1="430.1"
+   x2="83.2"
+   y2="430.1"
+   id="line4269" />
+	<line
+   class="panel3"
+   x1="93.6"
+   y1="398.6"
+   x2="129.9"
+   y2="398.6"
+   id="line4271" />
+	<line
+   class="panel3"
+   x1="93.6"
+   y1="409.1"
+   x2="129.9"
+   y2="409.1"
+   id="line4273" />
+	<line
+   class="panel5"
+   x1="93.6"
+   y1="419.6"
+   x2="129.9"
+   y2="419.6"
+   id="line4275" />
+	<line
+   class="panel5"
+   x1="93.6"
+   y1="430.1"
+   x2="129.9"
+   y2="430.1"
+   id="line4277" />
+</g>
+<path
+   class="panel6"
+   d="M414.9,160.5c0,0.3-0.3,0.6-0.7,0.6h-72.4c-0.4,0-0.7-0.3-0.7-0.6v-18.7c0-0.3,0.3-0.6,0.7-0.6h72.4  c0.4,0,0.7,0.3,0.7,0.6V160.5z"
+   id="path4279" />
+<path
+   class="panel6"
+   d="M487.8,160.5c0,0.3-0.3,0.6-0.6,0.6h-55.7c-0.3,0-0.6-0.3-0.6-0.6v-18.7c0-0.3,0.2-0.6,0.6-0.6h55.7  c0.3,0,0.6,0.3,0.6,0.6V160.5z"
+   id="path4281" />
+
+<g
+   id="g4299">
+<path
+   id="path4301"
+   class="panel2"
+   d="M504.8,100.9c0,2.4-2,4.4-4.4,4.4c-2.4,0-4.4-2-4.4-4.4s2-4.4,4.4-4.4C502.8,96.5,504.8,98.4,504.8,100.9z" />
+	<animateMotion
+   path="M40, 0 -495 0 45 0"
+   begin="0s"
+   dur="12s"
+   repeatCount="indefinite" />
+</g>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:129.99999523%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="54.628342"
+   y="165.49933"
+   id="text4302"
+   sodipodi:linespacing="130%"><tspan
+     sodipodi:role="line"
+     id="tspan4304"
+     x="54.628342"
+     y="165.49933"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:129.99999523%;font-family:arial;-inkscape-font-specification:'arial Bold';fill:#808080;fill-opacity:1">OteK<tspan
+   style="font-size:20px;fill:#808080;fill-opacity:1"
+   id="tspan4318"> Admin Panel</tspan></tspan></text>
+</svg>

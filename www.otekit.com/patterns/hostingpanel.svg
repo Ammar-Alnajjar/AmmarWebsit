@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 763.8 600.5"
+   style="enable-background:new 0 0 763.8 600.5;"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="hostingpanel.svg"><metadata
+   id="metadata4300"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4298" /><sodipodi:namedview
+   pagecolor="#000000"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview4296"
+   showgrid="false"
+   inkscape:zoom="1.4021649"
+   inkscape:cx="381.89999"
+   inkscape:cy="385.83195"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style4137">
+	.hcpanel0{fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel1{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel2{fill:none;stroke:#EE5586;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel3{fill:#FFFFFF;stroke:#EE5586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel4{fill:none;stroke:#D7D7D7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel5{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel6{fill:none;stroke:#808080;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.hcpanel7{fill:#FFFFFF;}
+</style>
+<path
+   class="hcpanel0"
+   d="M77,83.3V38.8c0-11,8.9-20,20-20h630.4c11,0,20,8.9,20,20v461.1c0,11-8.9,20-20,20H691"
+   id="path4139" />
+<path
+   class="hcpanel1"
+   d="M40.6,83.3H671c11,0,20,8.9,20,20v461.1c0,11-8.9,20-20,20H40.6c-11,0-20-8.9-20-20V103.2  C20.6,92.2,29.5,83.3,40.6,83.3z"
+   id="path4141" />
+<rect
+   x="75.6"
+   y="171"
+   id="svg-concept"
+   class="hcpanel2"
+   width="565.1"
+   height="58.1" />
+<path
+   id="path4144"
+   class="hcpanel3"
+   d="M93.8,114.6c0,2.9-2.4,5.3-5.3,5.3c-2.9,0-5.3-2.4-5.3-5.3s2.4-5.3,5.3-5.3C91.5,109.3,93.8,111.7,93.8,114.6z" />
+<path
+   class="hcpanel4"
+   d="M119.2,114.6c0,2.9-2.4,5.3-5.3,5.3c-2.9,0-5.3-2.4-5.3-5.3s2.4-5.3,5.3-5.3  C116.8,109.3,119.2,111.7,119.2,114.6z"
+   id="path4146" />
+<path
+   class="hcpanel4"
+   d="M144.6,114.6c0,2.9-2.4,5.3-5.3,5.3c-2.9,0-5.3-2.4-5.3-5.3s2.4-5.3,5.3-5.3  C142.2,109.3,144.6,111.7,144.6,114.6z"
+   id="path4148" />
+<path
+   class="hcpanel4"
+   d="M22.1,139.5h667.1"
+   id="path4150" />
+<line
+   class="hcpanel4"
+   x1="639.7"
+   y1="266.7"
+   x2="199.9"
+   y2="266.7"
+   id="line4152" />
+<rect
+   x="200.4"
+   y="302"
+   id="rect4154"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<rect
+   x="346.8"
+   y="302"
+   class="hcpanel4"
+   width="40.5"
+   height="35.3"
+   id="rect4156" />
+<rect
+   x="493"
+   y="302"
+   id="rect4158"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<rect
+   x="200.4"
+   y="349.7"
+   class="hcpanel5"
+   width="40.5"
+   height="35.3"
+   id="rect4160" />
+<rect
+   x="346.8"
+   y="349.7"
+   id="rect4162"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<rect
+   x="492.8"
+   y="349.7"
+   class="hcpanel5"
+   width="40.5"
+   height="35.3"
+   id="rect4164" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="292.2"
+   x2="176.4"
+   y2="292.2"
+   id="line4166" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="266.7"
+   x2="176.4"
+   y2="266.7"
+   id="line4168" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="305"
+   x2="176.4"
+   y2="305"
+   id="line4170" />
+<line
+   class="hcpanel6"
+   x1="261.8"
+   y1="314.5"
+   x2="325.5"
+   y2="314.5"
+   id="line4172" />
+<line
+   class="hcpanel6"
+   x1="261.8"
+   y1="327.3"
+   x2="314.8"
+   y2="327.3"
+   id="line4174" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="314.5"
+   x2="470"
+   y2="314.5"
+   id="line4176" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="327.3"
+   x2="459.3"
+   y2="327.3"
+   id="line4178" />
+<line
+   class="hcpanel6"
+   x1="550.7"
+   y1="314.5"
+   x2="614.4"
+   y2="314.5"
+   id="line4180" />
+<line
+   class="hcpanel6"
+   x1="550.7"
+   y1="327.3"
+   x2="603.7"
+   y2="327.3"
+   id="line4182" />
+<line
+   class="hcpanel5"
+   x1="261.8"
+   y1="359.8"
+   x2="325.5"
+   y2="359.8"
+   id="line4184" />
+<line
+   class="hcpanel5"
+   x1="261.8"
+   y1="372.6"
+   x2="314.8"
+   y2="372.6"
+   id="line4186" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="359.8"
+   x2="470"
+   y2="359.8"
+   id="line4188" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="372.6"
+   x2="459.3"
+   y2="372.6"
+   id="line4190" />
+<line
+   class="hcpanel5"
+   x1="550.7"
+   y1="359.8"
+   x2="614.4"
+   y2="359.8"
+   id="line4192" />
+<line
+   class="hcpanel5"
+   x1="550.7"
+   y1="372.6"
+   x2="603.7"
+   y2="372.6"
+   id="line4194" />
+<line
+   class="hcpanel4"
+   x1="639.7"
+   y1="425.8"
+   x2="199.9"
+   y2="425.8"
+   id="line4196" />
+<rect
+   x="200.4"
+   y="466.6"
+   class="hcpanel5"
+   width="40.5"
+   height="35.3"
+   id="rect4198" />
+<rect
+   x="346.8"
+   y="466.6"
+   id="rect4200"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<rect
+   x="493"
+   y="466.6"
+   class="hcpanel5"
+   width="40.5"
+   height="35.3"
+   id="rect4202" />
+<rect
+   x="200.4"
+   y="514.2"
+   id="rect4204"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<rect
+   x="346.8"
+   y="514.2"
+   class="hcpanel4"
+   width="40.5"
+   height="35.3"
+   id="rect4206" />
+<rect
+   x="492.8"
+   y="514.2"
+   id="rect4208"
+   class="hcpanel2"
+   width="40.5"
+   height="35.3" />
+<line
+   class="hcpanel5"
+   x1="261.8"
+   y1="479.1"
+   x2="325.5"
+   y2="479.1"
+   id="line4210" />
+<line
+   class="hcpanel5"
+   x1="261.8"
+   y1="491.9"
+   x2="314.8"
+   y2="491.9"
+   id="line4212" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="479.1"
+   x2="470"
+   y2="479.1"
+   id="line4214" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="491.9"
+   x2="459.3"
+   y2="491.9"
+   id="line4216" />
+<line
+   class="hcpanel5"
+   x1="550.7"
+   y1="479.1"
+   x2="614.4"
+   y2="479.1"
+   id="line4218" />
+<line
+   class="hcpanel5"
+   x1="550.7"
+   y1="491.9"
+   x2="603.7"
+   y2="491.9"
+   id="line4220" />
+<line
+   class="hcpanel6"
+   x1="261.8"
+   y1="524.4"
+   x2="325.5"
+   y2="524.4"
+   id="line4222" />
+<line
+   class="hcpanel6"
+   x1="261.8"
+   y1="537.2"
+   x2="314.8"
+   y2="537.2"
+   id="line4224" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="524.4"
+   x2="470"
+   y2="524.4"
+   id="line4226" />
+<line
+   class="hcpanel6"
+   x1="406.2"
+   y1="537.2"
+   x2="459.3"
+   y2="537.2"
+   id="line4228" />
+<line
+   class="hcpanel6"
+   x1="550.7"
+   y1="524.4"
+   x2="614.4"
+   y2="524.4"
+   id="line4230" />
+<line
+   class="hcpanel6"
+   x1="550.7"
+   y1="537.2"
+   x2="603.7"
+   y2="537.2"
+   id="line4232" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="317.7"
+   x2="176.4"
+   y2="317.7"
+   id="line4234" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="330.5"
+   x2="176.4"
+   y2="330.5"
+   id="line4236" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="343.3"
+   x2="176.4"
+   y2="343.3"
+   id="line4238" />
+<line
+   class="hcpanel6"
+   x1="75.6"
+   y1="356"
+   x2="176.4"
+   y2="356"
+   id="line4240" />
+<line
+   class="hcpanel6"
+   x1="75.6"
+   y1="368.8"
+   x2="176.4"
+   y2="368.8"
+   id="line4242" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="397.2"
+   x2="176.4"
+   y2="397.2"
+   id="line4244" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="410"
+   x2="176.4"
+   y2="410"
+   id="line4246" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="422.8"
+   x2="176.4"
+   y2="422.8"
+   id="line4248" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="435.5"
+   x2="176.4"
+   y2="435.5"
+   id="line4250" />
+<line
+   class="hcpanel6"
+   x1="75.6"
+   y1="448.3"
+   x2="176.4"
+   y2="448.3"
+   id="line4252" />
+<line
+   class="hcpanel6"
+   x1="75.6"
+   y1="461.1"
+   x2="176.4"
+   y2="461.1"
+   id="line4254" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="473.9"
+   x2="176.4"
+   y2="473.9"
+   id="line4256" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="501.9"
+   x2="119.9"
+   y2="501.9"
+   id="line4258" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="514.7"
+   x2="119.9"
+   y2="514.7"
+   id="line4260" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="527.4"
+   x2="119.9"
+   y2="527.4"
+   id="line4262" />
+<line
+   class="hcpanel4"
+   x1="75.6"
+   y1="540.2"
+   x2="119.9"
+   y2="540.2"
+   id="line4264" />
+<line
+   class="hcpanel4"
+   x1="132.5"
+   y1="501.9"
+   x2="176.7"
+   y2="501.9"
+   id="line4266" />
+<line
+   class="hcpanel4"
+   x1="132.5"
+   y1="514.7"
+   x2="176.7"
+   y2="514.7"
+   id="line4268" />
+<line
+   class="hcpanel6"
+   x1="132.5"
+   y1="527.4"
+   x2="176.7"
+   y2="527.4"
+   id="line4270" />
+<line
+   class="hcpanel6"
+   x1="132.5"
+   y1="540.2"
+   x2="176.7"
+   y2="540.2"
+   id="line4272" />
+<path
+   class="hcpanel5"
+   d="M523.5,212.1c0,0.4-0.4,0.7-0.9,0.7h-88.2c-0.5,0-0.9-0.3-0.9-0.7v-22.8c0-0.4,0.4-0.7,0.9-0.7h88.2  c0.5,0,0.9,0.3,0.9,0.7V212.1z"
+   id="path4274" />
+<path
+   class="hcpanel5"
+   d="M612.3,212.1c0,0.4-0.3,0.7-0.7,0.7h-67.8c-0.4,0-0.7-0.3-0.7-0.7v-22.8c0-0.4,0.3-0.7,0.7-0.7h67.8  c0.4,0,0.7,0.3,0.7,0.7V212.1z"
+   id="path4276" />
+
+<path
+   id="path4294"
+   class="hcpanel3"
+   d="M632.9,139.5c0,2.9-2.4,5.3-5.3,5.3c-2.9,0-5.3-2.4-5.3-5.3c0-2.9,2.4-5.3,5.3-5.3  C630.5,134.2,632.9,136.6,632.9,139.5z" />
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:129.99999523%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="84.155586"
+   y="213.95488"
+   id="text4302"
+   sodipodi:linespacing="130%"><tspan
+     sodipodi:role="line"
+     id="tspan4304"
+     x="84.155586"
+     y="213.95488"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:129.99999523%;font-family:arial;-inkscape-font-specification:'arial Bold'">OteK<tspan
+   style="font-size:20px"
+   id="tspan4318"> Admin Panel</tspan></tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   x="-13.550475"
+   y="171.16389"
+   id="text4324"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan4326"
+     x="-13.550475"
+     y="171.16389" /></text>
+</svg>
